@@ -1,0 +1,201 @@
+Employee_ID,Department,Age,Gender,Salary,Years_At_Company,Performance_Rating,Attrition,Age Group
+E1000,Operations,25,Female,51632,17,4,Yes,Under 30
+E1001,HR,37,Male,91261,9,5,No,30s
+E1002,HR,58,Male,46728,4,2,Yes,50+
+E1003,Operations,27,Female,111560,20,4,No,Under 30
+E1004,IT,27,Male,100008,15,2,No,Under 30
+E1005,Finance,53,Female,33534,3,5,No,50+
+E1006,Finance,26,Male,81645,0,5,No,Under 30
+E1007,Finance,56,Female,107580,18,2,Yes,50+
+E1008,Operations,30,Female,103975,9,1,No,30s
+E1009,HR,30,Male,116900,15,3,No,30s
+E1010,Operations,52,Male,33552,15,4,No,50+
+E1011,Operations,57,Male,41003,14,3,No,50+
+E1012,Marketing,32,Male,114246,10,5,Yes,30s
+E1013,HR,38,Male,86179,5,3,No,30s
+E1014,Marketing,55,Female,47786,1,1,No,50+
+E1015,Sales,60,Male,90515,8,3,No,50+
+E1016,HR,49,Female,53819,15,3,Yes,40s
+E1017,HR,35,Male,36590,3,5,No,30s
+E1018,HR,56,Male,64099,2,5,Yes,50+
+E1019,Finance,34,Female,79689,12,4,No,30s
+E1020,Finance,41,Female,72906,15,2,No,40s
+E1021,Marketing,47,Male,57742,2,4,No,40s
+E1022,Marketing,45,Female,89598,18,5,No,40s
+E1023,HR,50,Male,72840,20,4,No,50+
+E1024,Marketing,55,Male,74236,1,3,No,50+
+E1025,Finance,50,Male,79692,4,3,Yes,50+
+E1026,Operations,29,Female,66471,4,5,No,Under 30
+E1027,Operations,37,Female,85255,18,5,Yes,30s
+E1028,Operations,36,Male,63065,9,4,No,30s
+E1029,Marketing,26,Male,40735,2,4,No,Under 30
+E1030,Sales,43,Male,91644,7,3,No,40s
+E1031,Finance,23,Male,32540,3,2,Yes,Under 30
+E1032,Sales,59,Female,100702,17,2,No,50+
+E1033,Marketing,57,Male,36826,13,5,No,50+
+E1034,IT,36,Male,75870,19,4,No,30s
+E1035,HR,59,Female,59389,19,2,No,50+
+E1036,Finance,36,Female,115215,19,4,Yes,30s
+E1037,Operations,22,Male,38993,7,1,No,Under 30
+E1038,Sales,26,Female,115426,16,3,No,Under 30
+E1039,IT,25,Male,35276,12,4,No,Under 30
+E1040,IT,36,Male,34067,14,4,No,30s
+E1041,Finance,26,Female,62411,14,4,No,Under 30
+E1042,Finance,24,Male,56130,9,2,Yes,Under 30
+E1043,IT,43,Female,32671,18,4,Yes,40s
+E1044,HR,26,Male,111439,13,1,No,Under 30
+E1045,HR,54,Male,49973,9,2,No,50+
+E1046,Sales,37,Female,61266,18,5,No,30s
+E1047,HR,39,Female,46544,19,5,No,30s
+E1048,IT,53,Female,92070,1,3,No,50+
+E1049,IT,35,Male,117747,19,1,Yes,30s
+E1050,Marketing,56,Male,44993,3,4,No,50+
+E1051,IT,30,Male,103920,6,1,No,30s
+E1052,HR,58,Male,58569,20,5,Yes,50+
+E1053,Operations,58,Female,90952,6,4,No,50+
+E1054,Sales,52,Female,63586,8,1,Yes,50+
+E1055,Marketing,37,Female,78351,2,2,No,30s
+E1056,HR,52,Male,51992,5,4,No,50+
+E1057,Sales,48,Female,109415,7,2,No,40s
+E1058,HR,34,Female,109593,5,1,No,30s
+E1059,Marketing,28,Female,45012,17,4,No,Under 30
+E1060,IT,28,Female,51465,2,3,Yes,Under 30
+E1061,Operations,49,Male,70768,5,3,No,40s
+E1062,Marketing,44,Male,44168,0,5,Yes,40s
+E1063,IT,49,Female,105849,13,4,No,40s
+E1064,Marketing,48,Male,33365,14,1,Yes,40s
+E1065,Finance,51,Female,70888,19,3,Yes,50+
+E1066,Operations,25,Male,105470,15,5,No,Under 30
+E1067,HR,28,Male,118781,9,4,Yes,Under 30
+E1068,HR,25,Female,79192,1,3,No,Under 30
+E1069,Operations,47,Female,81990,7,4,Yes,40s
+E1070,Finance,43,Female,55995,9,5,Yes,40s
+E1071,IT,28,Female,39961,9,1,No,Under 30
+E1072,HR,37,Male,107607,14,5,No,30s
+E1073,Finance,34,Female,112213,2,1,No,30s
+E1074,HR,34,Male,61830,7,2,Yes,30s
+E1075,Sales,56,Female,43356,8,3,Yes,50+
+E1076,IT,50,Male,69529,20,2,No,50+
+E1077,Sales,30,Female,119687,18,1,No,30s
+E1078,Operations,49,Male,108697,6,4,No,40s
+E1079,IT,33,Male,45866,13,1,No,30s
+E1080,Finance,39,Female,104177,3,1,No,30s
+E1081,IT,51,Female,35383,17,4,No,50+
+E1082,IT,37,Male,75508,7,2,Yes,30s
+E1083,Finance,26,Female,99827,20,3,No,Under 30
+E1084,Operations,50,Female,86148,4,1,No,50+
+E1085,IT,57,Male,116706,8,1,Yes,50+
+E1086,Operations,28,Female,78571,4,3,No,Under 30
+E1087,Operations,25,Female,39038,2,1,No,Under 30
+E1088,Operations,56,Female,96317,1,3,No,50+
+E1089,HR,22,Female,114874,5,3,No,Under 30
+E1090,Marketing,27,Female,74725,9,3,No,Under 30
+E1091,Operations,37,Female,31658,19,4,Yes,30s
+E1092,Finance,32,Male,85057,18,2,No,30s
+E1093,Marketing,48,Male,94251,9,2,No,40s
+E1094,Operations,53,Female,43833,14,5,No,50+
+E1095,Finance,52,Female,86822,3,4,No,50+
+E1096,Finance,35,Male,77472,14,5,No,30s
+E1097,Sales,47,Female,113307,9,2,Yes,40s
+E1098,Sales,25,Female,90258,12,2,Yes,Under 30
+E1099,IT,32,Male,50052,8,2,No,30s
+E1100,Operations,46,Female,87080,16,1,Yes,40s
+E1101,Operations,22,Female,53086,17,5,No,Under 30
+E1102,Marketing,46,Male,98386,15,4,No,40s
+E1103,Finance,38,Female,115256,14,5,No,30s
+E1104,Operations,51,Female,65400,2,2,No,50+
+E1105,IT,40,Female,110728,19,4,No,40s
+E1106,HR,49,Female,100539,1,5,No,40s
+E1107,Finance,57,Female,93372,13,2,No,50+
+E1108,HR,53,Male,90931,10,2,No,50+
+E1109,IT,31,Female,87091,19,4,Yes,30s
+E1110,Sales,34,Male,107656,8,3,No,30s
+E1111,IT,40,Male,65179,0,4,No,40s
+E1112,HR,35,Female,72245,2,3,No,30s
+E1113,Finance,25,Female,62177,7,1,No,Under 30
+E1114,Marketing,59,Male,41359,18,4,No,50+
+E1115,Operations,56,Male,66559,18,3,No,50+
+E1116,IT,25,Female,89087,0,5,No,Under 30
+E1117,Finance,42,Male,61963,8,2,No,40s
+E1118,Operations,25,Male,90910,18,1,No,Under 30
+E1119,Sales,25,Male,104691,1,4,No,Under 30
+E1120,Sales,59,Male,109997,5,3,No,50+
+E1121,Operations,52,Male,117580,15,5,Yes,50+
+E1122,Sales,54,Male,79674,16,3,No,50+
+E1123,Finance,55,Female,74092,20,4,No,50+
+E1124,IT,32,Male,33761,14,3,No,30s
+E1125,Finance,25,Female,94789,8,4,Yes,Under 30
+E1126,Finance,54,Female,72600,5,3,No,50+
+E1127,Operations,27,Male,53834,18,2,Yes,Under 30
+E1128,Marketing,33,Female,93904,13,4,No,30s
+E1129,Marketing,26,Female,57802,20,4,Yes,Under 30
+E1130,IT,60,Female,76507,15,1,Yes,50+
+E1131,Operations,26,Male,63862,2,2,No,Under 30
+E1132,Marketing,37,Male,74608,15,4,No,30s
+E1133,Sales,47,Male,66655,11,5,No,40s
+E1134,Marketing,29,Male,108139,13,3,No,Under 30
+E1135,Sales,58,Female,66211,10,5,No,50+
+E1136,IT,37,Male,102848,10,3,No,30s
+E1137,Finance,59,Male,31330,3,3,Yes,50+
+E1138,Finance,60,Female,97715,5,1,No,50+
+E1139,Marketing,24,Male,55042,10,4,No,Under 30
+E1140,Sales,27,Male,41221,13,3,No,Under 30
+E1141,HR,48,Male,61635,15,1,No,40s
+E1142,HR,59,Female,83271,9,5,No,50+
+E1143,HR,58,Male,94038,12,1,No,50+
+E1144,Finance,55,Female,102768,17,5,No,50+
+E1145,Operations,42,Female,61499,1,4,No,40s
+E1146,Finance,38,Female,92402,14,3,No,30s
+E1147,Operations,35,Female,114659,2,2,No,30s
+E1148,Sales,42,Female,94332,10,5,No,40s
+E1149,Marketing,37,Male,88743,8,3,No,30s
+E1150,HR,38,Female,32260,10,2,Yes,30s
+E1151,Sales,47,Female,42196,3,2,No,40s
+E1152,Sales,30,Female,68566,12,5,No,30s
+E1153,Marketing,41,Male,59045,16,3,No,40s
+E1154,Sales,51,Female,83005,0,2,No,50+
+E1155,Marketing,42,Female,61890,17,1,No,40s
+E1156,IT,26,Male,70135,14,1,No,Under 30
+E1157,Marketing,22,Female,117026,13,3,No,Under 30
+E1158,HR,51,Female,106225,1,4,No,50+
+E1159,Operations,58,Male,78368,6,1,No,50+
+E1160,Operations,28,Female,92031,16,5,No,Under 30
+E1161,HR,26,Male,102544,11,3,Yes,Under 30
+E1162,Operations,56,Female,99588,19,2,No,50+
+E1163,Marketing,35,Female,75056,15,1,No,30s
+E1164,IT,54,Female,85771,20,3,No,50+
+E1165,Operations,38,Male,102140,14,3,Yes,30s
+E1166,IT,30,Male,73357,1,4,No,30s
+E1167,HR,44,Male,76112,6,2,No,40s
+E1168,IT,26,Male,89473,8,2,No,Under 30
+E1169,Sales,37,Female,65509,17,2,Yes,30s
+E1170,Finance,45,Male,70189,4,5,No,40s
+E1171,Sales,40,Male,62951,9,3,No,40s
+E1172,HR,32,Male,60217,14,5,No,30s
+E1173,Operations,50,Female,45814,15,5,Yes,50+
+E1174,Operations,56,Female,55242,3,3,No,50+
+E1175,IT,41,Female,71359,0,2,Yes,40s
+E1176,Marketing,55,Female,45670,20,3,No,50+
+E1177,Finance,22,Female,100236,19,4,No,Under 30
+E1178,Marketing,57,Male,54267,7,3,No,50+
+E1179,HR,41,Male,55105,5,3,No,40s
+E1180,Operations,28,Female,58361,9,1,No,Under 30
+E1181,IT,30,Female,93464,17,4,No,30s
+E1182,Operations,38,Male,66241,0,1,No,30s
+E1183,Marketing,29,Female,107278,17,2,No,Under 30
+E1184,Marketing,28,Female,98765,13,2,Yes,Under 30
+E1185,Finance,57,Male,108222,2,4,Yes,50+
+E1186,Finance,31,Female,67093,7,5,Yes,30s
+E1187,IT,39,Female,43176,3,3,No,30s
+E1188,Finance,40,Female,55443,14,1,No,40s
+E1189,Marketing,60,Female,68829,3,4,No,50+
+E1190,Marketing,35,Male,59816,20,1,No,30s
+E1191,HR,43,Female,77301,4,3,No,40s
+E1192,Marketing,35,Male,53519,15,5,No,30s
+E1193,IT,38,Female,69618,9,1,No,30s
+E1194,Sales,54,Female,31854,16,4,No,50+
+E1195,HR,53,Female,100010,8,3,Yes,50+
+E1196,HR,38,Male,46591,13,3,No,30s
+E1197,IT,25,Female,65954,15,5,No,Under 30
+E1198,IT,27,Female,35965,15,4,No,Under 30
+E1199,Finance,49,Female,37146,7,3,No,40s
