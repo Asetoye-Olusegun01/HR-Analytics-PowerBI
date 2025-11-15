@@ -1,0 +1,12 @@
+HR-Analytics-PowerBI/
+│
+├── PowerBI_File/
+│      └── HR_Analytics_Dashboard.pbix
+│
+├── Images/
+│      ├── HR_Overview.png
+│      ├── Attrition_By_Age.png
+│      ├── Attrition_By_Department.png
+│      └── Key_Metrics.png
+│
+└── README.md
